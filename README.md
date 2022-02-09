@@ -8,6 +8,3 @@ __Mentoría Diplomatura AACSyA 2019 - FaMAF - UNC__
 
 ## Link a la competencia de original de Kaggle:
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
-
-## Mail de contacto: 
-__mgonella89@gmail.com__
